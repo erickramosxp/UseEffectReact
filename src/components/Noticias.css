@@ -1,0 +1,27 @@
+.conteudo {
+    /* background-color: blue; */
+    margin-top: 150px;
+    color: rgb(10, 15, 17);
+}
+
+.noticia {
+    text-align: center;
+    width: 900px;
+    background-color: black;
+    padding: 30px;
+    /* border: 1px solid red; */
+    margin: auto;
+}
+
+.noticia h1{
+    width: 800px;
+    margin: auto;
+    color: rgb(224, 229, 235);
+    background-color: black;
+}
+
+.noticia h2 {
+    margin-top: 30px;
+    color: rgb(152, 155, 158);
+    background-color: black;
+}
